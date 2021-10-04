@@ -16,6 +16,8 @@ function fun() {
 };
 */
 
-function changeColor(ad) {
-	$("#button").attr ("class", ad);
+
+
+function changeColor(red) {
+	$("#button").attr("class", red);
 }
