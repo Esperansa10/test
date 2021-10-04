@@ -20,4 +20,7 @@ function fun() {
 
 function changeColor(red) {
 	$("#button").attr("class", red);
-}
+};
+
+
+$('#information').css('color', 'red');
