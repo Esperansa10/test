@@ -1,0 +1,16 @@
+{
+    "name": "nadin/test",
+    "autoload": {
+        "psr-4": {
+            "Nadin\\Test\\": "src/"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Nadin",
+            "email": "esperansa10@mail.ru"
+        }
+    ],
+    "require": {}
+}
